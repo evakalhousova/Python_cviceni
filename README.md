@@ -1,1 +1,1 @@
-Toto je dokumentace k testovacímu projektu.
+# Toto je dokumentace k testovacímu projektu.
